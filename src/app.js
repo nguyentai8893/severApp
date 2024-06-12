@@ -30,7 +30,7 @@ app.use(
 	cors({
 		origin: [
 			'https://admin-dashboard-rho-snowy.vercel.app',
-			'https://client-app-tmdt2.vercel.app/',
+			'https://client-app-tmdt2.vercel.app',
 			// 'https://client-app-tmdt.vercel.app',
 		],
 		methods: ['GET', 'POST', 'PUT', 'DELETE'],
