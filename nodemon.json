@@ -1,0 +1,7 @@
+{
+	"env": {
+		"MONGO_USER": "nguyenvantai566",
+		"MONGO_PASSWORD": "FiocogoFiCmy6OhN",
+		"MONGO_DATABASE": "?retryWrites=true&w=majority&appName=Cluster0"
+	}
+}
