@@ -7,7 +7,7 @@ function setupSocket(server) {
 			origin: [
 				'https://admin-dashboard-rho-snowy.vercel.app',
 				'https://client-app-tmdt.vercel.app',
-			], // Replace with the appropriate port of your client-app
+			],
 			methods: ['GET', 'POST'],
 		},
 	});
