@@ -6,7 +6,7 @@ function setupSocket(server) {
 		cors: {
 			origin: [
 				'https://admin-dashboard-rho-snowy.vercel.app',
-				'https://client-app-tmdt2.vercel.app',
+				'https://apple-stores-pied.vercel.app',
 				// 'https://client-app-tmdt.vercel.app',
 			],
 			methods: ['GET', 'POST'],
