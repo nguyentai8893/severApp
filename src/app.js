@@ -29,7 +29,7 @@ app.use(morgan('combined', { stream: accessLogStream }));
 app.use(
 	cors({
 		origin: [
-			'https://admin-dashboard-rho-snowy.vercel.app',
+			'https://dashboard-psi-neon.vercel.app',
 			'https://apple-stores-pied.vercel.app',
 			// 'https://client-app-tmdt.vercel.app',
 		],
